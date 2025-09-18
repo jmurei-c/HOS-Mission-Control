@@ -12,11 +12,11 @@
             color: #333;
         }
         .slide {
-            width: 1920px;
-            height: 1080px;
+            width: 1280px;
+            height: 720px;
             background: white;
             margin: 20px auto;
-            padding: 60px;
+            padding: 40px;
             box-sizing: border-box;
             box-shadow: 0 20px 60px rgba(0,0,0,0.3);
             page-break-after: always;
@@ -297,7 +297,7 @@
                 Intelligence Centers
             </div>
             <div class="progress-bar">
-                <div class="progress-fill" style="width: 25%; background: #ffc107;">Design Phase</div>
+                <div class="progress-fill" style="width: 25%; background: #ffc107;">Planning & Design</div>
             </div>
             <ul style="font-size: 16px; padding-left: 20px;">
                 <li>2 centers in design (Rwanda)</li>
@@ -312,7 +312,7 @@
                 Connected Facilities
             </div>
             <div class="progress-bar">
-                <div class="progress-fill" style="width: 15%; background: #dc3545;">Assessment Phase</div>
+                <div class="progress-fill" style="width: 15%; background: #dc3545;">Discovery & Assessment</div>
             </div>
             <ul style="font-size: 16px; padding-left: 20px;">
                 <li>Eastern/Western clusters (Rwanda)</li>
@@ -327,7 +327,7 @@
                 Capability Building
             </div>
             <div class="progress-bar">
-                <div class="progress-fill" style="width: 20%; background: #ffc107;">Planning Phase</div>
+                <div class="progress-fill" style="width: 20%; background: #ffc107;">Hiring & Planning</div>
             </div>
             <ul style="font-size: 16px; padding-left: 20px;">
                 <li>eBuzima rollout started (Rwanda)</li>
